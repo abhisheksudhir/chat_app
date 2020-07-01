@@ -1,6 +1,11 @@
 # chat_app
 
-A new Flutter project.
+A chat app where users can register and talk to each other. Is not person to person but more like a single group chat.
+
+## Screenshots
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
 
 ## Getting Started
 
